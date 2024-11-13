@@ -1,0 +1,187 @@
+
+[
+    {
+        "id": 3001,
+        "name": "",
+        "videoString": "",
+        "lessonImageUrl": "",
+        "handoutTitle": "Lesson 3 Guide Notes",
+        "handoutString": "https://firebasestorage.googleapis.com/v0/b/onlinepianolessons-b0cd6.appspot.com/o/Lesson%203%2F3.00%20Lesson%203%20Guide%20Notes.pdf?alt=media&token=7a1e9256-f72a-46d7-9bc1-c3fdd1c316ca",
+        "playalongSlow": "",
+        "playalongMedium": "",
+        "playalongFast": ""
+    },
+    {
+        "id": 3002,
+        "name": "A Minor Scales and Chords",
+        "videoString": "https://firebasestorage.googleapis.com/v0/b/onlinepianolessons-b0cd6.appspot.com/o/Lesson%203%2F3.01%20A%20Minor%20Scales%20and%20Chords.mp4?alt=media&token=26beff48-8c9c-4822-9ce2-ce727e2730f7",
+        "lessonImageUrl": "3.01a_Still",
+        "handoutTitle": "A Minor Handout",
+        "handoutString": "https://firebasestorage.googleapis.com/v0/b/onlinepianolessons-b0cd6.appspot.com/o/Lesson%203%2F3.01%20A%20Minor%20Scales%20and%20Chords.pdf?alt=media&token=f48bf8ea-9a87-476c-8e7d-665a325ac945",
+        "playalongSlow": "",
+        "playalongMedium": "",
+        "playalongFast": ""
+    },
+    {
+        "id": 3003,
+        "name": "C Minor/Relative vs Parallel",
+        "videoString": "https://firebasestorage.googleapis.com/v0/b/onlinepianolessons-b0cd6.appspot.com/o/Lesson%203%2F3.01%20C%20Minor%20and%20Relative%20vs%20Parallel.mp4?alt=media&token=48227d8e-8dd2-40af-ad1e-3d4e773fa3fd",
+        "lessonImageUrl": "3.01b_Still",
+        "handoutTitle": "C Minor Handout",
+        "handoutString": "https://firebasestorage.googleapis.com/v0/b/onlinepianolessons-b0cd6.appspot.com/o/Lesson%203%2F3.01%20C%20Minor%20Scales%20and%20Chords.pdf?alt=media&token=5f0de6b8-1835-4d4c-8ddb-3733f07c6062",
+        "playalongSlow": "",
+        "playalongMedium": "",
+        "playalongFast": ""
+    },
+    
+    {
+        "id": 3004,
+        "name": "Lesson 3a Beethoven's 5th",
+        "videoString": "https://firebasestorage.googleapis.com/v0/b/onlinepianolessons-b0cd6.appspot.com/o/Lesson%203%2F3.02%20Lesson%203a%20Beethovens%205th.mp4?alt=media&token=eabff22e-2338-4ad5-bbc4-d852d5705925",
+        "lessonImageUrl": "3.02_Still",
+        "handoutTitle": "Beethoven's 5th Handout",
+        "handoutString": "https://firebasestorage.googleapis.com/v0/b/onlinepianolessons-b0cd6.appspot.com/o/Lesson%203%2F3.02%20Lesson%203a%20Beethovens%205th.pdf?alt=media&token=9daa7a13-f0be-4d14-abfd-563506429b7a",
+        "playalongSlow": "https://firebasestorage.googleapis.com/v0/b/onlinepianolessons-b0cd6.appspot.com/o/Lesson%203%2F3.02%20%20Playalong%203a%20Beethoven%20Slow.mp4?alt=media&token=960fbb32-73b6-49dd-bb50-b421cab3cea6",
+        "playalongMedium": "",
+        "playalongFast": ""
+    },
+    
+    {
+        "id": 3005,
+        "name": "A Minor Inversions",
+        "videoString": "https://firebasestorage.googleapis.com/v0/b/onlinepianolessons-b0cd6.appspot.com/o/Lesson%203%2F3.03%20A%20minor%20Triad%20Inversions.mov?alt=media&token=37d14eff-b722-4110-9a96-440146c5231c",
+        "lessonImageUrl": "3.03a_Still",
+        "handoutTitle": "Inversions Handout",
+        "handoutString": "https://firebasestorage.googleapis.com/v0/b/onlinepianolessons-b0cd6.appspot.com/o/Lesson%203%2F3.03%20Lesson%203b%20Inversions%20for%20C%20G%20F%20Am.pdf?alt=media&token=d469acf7-d84e-4997-b783-dd8d258e0053",
+        "playalongSlow": "",
+        "playalongMedium": "",
+        "playalongFast": ""
+    },
+    
+    {
+        "id": 3006,
+        "name": "C Major Inversions",
+        "videoString": "https://firebasestorage.googleapis.com/v0/b/onlinepianolessons-b0cd6.appspot.com/o/Lesson%203%2F3.03%20C%20Major%20Triad%20Inversions.mov?alt=media&token=4f7cef40-2329-42db-b435-455c0721d599",
+        "lessonImageUrl": "3.03b_Still",
+        "handoutTitle": "C Major Inversions Handout",
+        "handoutString": "",
+        "playalongSlow": "",
+        "playalongMedium": "",
+        "playalongFast": ""
+    },
+    
+    {
+        "id": 3007,
+        "name": "F Major Inversions",
+        "videoString": "https://firebasestorage.googleapis.com/v0/b/onlinepianolessons-b0cd6.appspot.com/o/Lesson%203%2F3.03%20F%20Major%20Triad%20Inversions.mov?alt=media&token=c8e5198f-50ae-4c48-be1b-923acf26640a",
+        "lessonImageUrl": "3.03c_Still",
+        "handoutTitle": "F Major Inversions Handout",
+        "handoutString": "",
+        "playalongSlow": "",
+        "playalongMedium": "",
+        "playalongFast": ""
+    },
+    {
+        "id": 3008,
+        "name": "G Major Inversions",
+        "videoString": "https://firebasestorage.googleapis.com/v0/b/onlinepianolessons-b0cd6.appspot.com/o/Lesson%203%2F3.03%20G%20Major%20Triad%20Inversions.mov?alt=media&token=dcab2ab2-6a6d-4b1e-90f4-ad2fd557acb6",
+        "lessonImageUrl": "3.03d_Still",
+        "handoutTitle": "G Major Inversions Handout",
+        "handoutString": "",
+        "playalongSlow": "",
+        "playalongMedium": "",
+        "playalongFast": ""
+    },
+    
+    {
+        "id": 3009,
+        "name": "Sustain Pedal",
+        "videoString": "https://firebasestorage.googleapis.com/v0/b/onlinepianolessons-b0cd6.appspot.com/o/Lesson%203%2F3.04%20Lesson%203c%20Sustain%20Pedal.mp4?alt=media&token=d13c593b-b91d-4772-980b-37a3db377dfe",
+        "lessonImageUrl": "3.04_Still",
+        "handoutTitle": "Sustain Pedal Handout",
+        "handoutString": "https://firebasestorage.googleapis.com/v0/b/onlinepianolessons-b0cd6.appspot.com/o/Lesson%203%2F3.04%20Lesson%203c%20Sustain%20Pedal.pdf?alt=media&token=1d516770-cf99-492e-ad88-c3b4186089ec",
+        "playalongSlow": "",
+        "playalongMedium": "",
+        "playalongFast": ""
+    },
+    
+    {
+        "id": 3010,
+        "name": "A Minor Piece with Sustain",
+        "videoString": "https://firebasestorage.googleapis.com/v0/b/onlinepianolessons-b0cd6.appspot.com/o/Lesson%203%2F3.05%20A%20minor%20piece%20with%20sustain.mp4?alt=media&token=d110de4b-2625-4e85-9cb4-25b681bf07e1",
+        "lessonImageUrl": "3.05_Still",
+        "handoutTitle": "A Minor Piece Handout",
+        "handoutString": "https://firebasestorage.googleapis.com/v0/b/onlinepianolessons-b0cd6.appspot.com/o/Lesson%203%2F3.05%20-%20A%20Minor%20Piece.pdf?alt=media&token=b6176b5f-a98a-44e0-8d86-6750597f0514",
+        "playalongSlow": "https://firebasestorage.googleapis.com/v0/b/onlinepianolessons-b0cd6.appspot.com/o/Lesson%203%2F3.05%20Lesson%203d%20-%20A%20minor%20piece%20with%20sustain.mp4?alt=media&token=eeaa9527-2b95-4744-b6b0-f9de0462ba15",
+        "playalongMedium": "",
+        "playalongFast": ""
+    },
+    
+    {
+        "id": 3011,
+        "name": "Choppin with Chopin",
+        "videoString": "https://firebasestorage.googleapis.com/v0/b/onlinepianolessons-b0cd6.appspot.com/o/Lesson%203%2F3.06%20Choppin%20with%20Chopin.mp4?alt=media&token=96df3401-9f41-4980-ae6c-9a7fa28b1ac8",
+        "lessonImageUrl": "Choppin",
+        "handoutTitle": "Choppin with Chopin Handout",
+        "handoutString": "https://firebasestorage.googleapis.com/v0/b/onlinepianolessons-b0cd6.appspot.com/o/Lesson%203%2F3.06%20Choppin%20with%20Chopin.pdf?alt=media&token=db1550eb-4ad9-48af-adc3-9375836c3e9a",
+        "playalongSlow": "",
+        "playalongMedium": "",
+        "playalongFast": ""
+    },
+    
+    {
+        "id": 3012,
+        "name": "Magical World",
+        "videoString": "https://firebasestorage.googleapis.com/v0/b/onlinepianolessons-b0cd6.appspot.com/o/Lesson%203%2F3.07%20Magical%20World.mp4?alt=media&token=3d608bac-14ab-4459-be9f-b3eacd236016",
+        "lessonImageUrl": "3.07_Still",
+        "handoutTitle": "Magical World Handout",
+        "handoutString": "https://firebasestorage.googleapis.com/v0/b/onlinepianolessons-b0cd6.appspot.com/o/Lesson%203%2F3.07%20Lesson%203f%20-%20Magical%20World%20-%20dc%20al%20fine%20-%20Reading.pdf?alt=media&token=7bd86585-512a-46a7-9c4c-fb67f8dbdc0f",
+        "playalongSlow": "",
+        "playalongMedium": "",
+        "playalongFast": ""
+    },
+    {
+        "id": 3013,
+        "name": "Ear Training",
+        "videoString": "https://firebasestorage.googleapis.com/v0/b/onlinepianolessons-b0cd6.appspot.com/o/Lesson%203%2F3.08%20Ear%20Training.mp4?alt=media&token=c67f7ff3-3e42-4ff1-9167-0c32b9a9cce1",
+        "lessonImageUrl": "3.08_Still",
+        "handoutTitle": "Ear Training Handout",
+        "handoutString": "https://firebasestorage.googleapis.com/v0/b/onlinepianolessons-b0cd6.appspot.com/o/Lesson%203%2F3.08%20Ear%20Training.pdf?alt=media&token=41372596-cbd2-46a3-96af-9397f52b62be",
+        "playalongSlow": "",
+        "playalongMedium": "",
+        "playalongFast": ""
+    },
+    {
+        "id": 3015,
+        "name": "Improv - Voice Leading - Pentatonic",
+        "videoString": "https://firebasestorage.googleapis.com/v0/b/onlinepianolessons-b0cd6.appspot.com/o/Lesson%203%2F3.09%20Improv%20-%20Voice%20Leading%20-%20Pentatonic.mp4?alt=media&token=7af51a42-104f-4c98-8556-a88b9f71d1ff",
+        "lessonImageUrl": "3.09_Still",
+        "handoutTitle": "Voice Leading Handout",
+        "handoutString": "https://firebasestorage.googleapis.com/v0/b/onlinepianolessons-b0cd6.appspot.com/o/Lesson%203%2F3.09%20Voice%20Leading.pdf?alt=media&token=25a50875-1f5d-4fee-8b57-9c7e521ee6cd",
+        "playalongSlow": "",
+        "playalongMedium": "",
+        "playalongFast": ""
+    },
+    {
+        "id": 3016,
+        "name": "Waltz in A",
+        "videoString": "https://firebasestorage.googleapis.com/v0/b/onlinepianolessons-b0cd6.appspot.com/o/Lesson%203%2F3.11%20Waltz%20in%20A.mp4?alt=media&token=26110c35-9551-4a0a-8c5f-07d92171ecf2",
+        "lessonImageUrl": "3.11_Still",
+        "handoutTitle": "Waltz in A Handout",
+        "handoutString": "https://firebasestorage.googleapis.com/v0/b/onlinepianolessons-b0cd6.appspot.com/o/Lesson%203%2F3.11%20Waltz%20in%20A.pdf?alt=media&token=e6c9c969-0772-4e39-87ec-94cde609ba99",
+        "playalongSlow": "",
+        "playalongMedium": "",
+        "playalongFast": ""
+    },
+    {
+        "id": 3017,
+        "name": "Bossa Nova in A",
+        "videoString": "https://firebasestorage.googleapis.com/v0/b/onlinepianolessons-b0cd6.appspot.com/o/Lesson%203%2F3.12%20Bossa%20in%20A%20Playalong%20SLOW.mp3?alt=media&token=d90845b3-60b7-4982-98be-dbf4d55cfbfd",
+        "lessonImageUrl": "3.11_Still",
+        "handoutTitle": "Bossa Nova in A Handout",
+        "handoutString": "",
+        "playalongSlow": "https://firebasestorage.googleapis.com/v0/b/onlinepianolessons-b0cd6.appspot.com/o/Lesson%203%2F3.12%20Bossa%20in%20A%20Playalong%20SLOW.mp3?alt=media&token=d90845b3-60b7-4982-98be-dbf4d55cfbfd",
+        "playalongMedium": "https://firebasestorage.googleapis.com/v0/b/onlinepianolessons-b0cd6.appspot.com/o/Lesson%203%2F3.12%20Bossa%20in%20A%20Playalong%20Medium.mp3?alt=media&token=6747cfaa-2d9f-445e-b573-e007ffc2be62",
+        "playalongFast": "https://firebasestorage.googleapis.com/v0/b/onlinepianolessons-b0cd6.appspot.com/o/Lesson%203%2F3.12%20Bossa%20in%20A%20Playalong%20Fast.mp3?alt=media&token=244a7dfe-87f2-45e8-a4a2-dbfc0bb6170a"
+    },
+]
